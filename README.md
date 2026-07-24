@@ -1,0 +1,2 @@
+# PROYECTO RED - FORMATIVO (SENA)
+Un proyecto colaborativo de enfoque a una empresa de estampación textil, ubicada en el area de medellin con el objetivo de tener mas alcance en el area web y avance en la tecnologia 3D para la modificacion, creacion y compra de camisetas a su gusto
